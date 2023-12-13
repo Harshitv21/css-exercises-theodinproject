@@ -1,0 +1,19 @@
+.normal-class {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    background-color: rgb(254, 154, 188);
+}
+
+.diff-class {
+    font-size: 24px;
+}
+
+#id-2 {
+    color: blue;
+    font-size: 36px;
+}
+
+#id-4 {
+    background-color: rgb(20, 255, 20);
+    font-size: 24px;
+    font-weight: bold;
+}
